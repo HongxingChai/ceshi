@@ -6,6 +6,10 @@
 
 
 如果在git commit命令之后报错
-这是因为没有同时提交信息，即：git commit -m "这里是信息"，
+	这是因为没有同时提交信息，即：git commit -m "这里是信息"，
+用户主目录的意思就是C:\Users\Administrator 下面的.ssh
+	ssh-keygen 不是内部或外部命令
+	https://blog.csdn.net/zy_281870667/article/details/50443403
 
-56666666666666666666666666666
+创建SSH密钥，并连接GitHub
+https://blog.csdn.net/happystarycy/article/details/52490183
